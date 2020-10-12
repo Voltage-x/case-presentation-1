@@ -20,3 +20,12 @@ Install the development requirements
 ```
 pip install -r requirements.txt
 ```
+
+### IF-ELSE instruction
+1. Go to if-else folder
+2. Put your .txt files in verify folder
+3. Run following:
+```
+python method_IF_ELSE.py
+```
+4. The result will be saved in result.csv
