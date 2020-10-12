@@ -23,9 +23,12 @@ pip install -r requirements.txt
 
 ### IF-ELSE instruction
 1. Go to if-else folder
+<<<<<<< HEAD
 ```
 cd .\if-else\
 ```
+=======
+>>>>>>> ad0570d18736894ed380be35056063cfa61f8342
 2. Put your .txt files in verify folder
 3. Run following:
 ```
