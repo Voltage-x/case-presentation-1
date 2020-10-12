@@ -1,0 +1,70 @@
+
+618630652 TH
+25702708
+7362133
+05/18/2005 12:00:00 AM
+transplant rejection
+DIS
+Admission Date :
+05/18/2005
+Report Status :
+Discharge Date :
+05/21/2005
+****** FINAL DISCHARGE ORDERS ******
+VANGESKIBEATHETLAND , AJOEAN J
+631-09-69-0 O85
+Room :
+7P-028
+Service :
+RNM
+DISCHARGE PATIENT ON :
+05/21/05 AT 11:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+DOUET , DAMI L. , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+CALCITRIOL 0.5 MCG PO BID CALCIUM CARBONATE ( 500 MG ELEMENTAL CA++ ) 5,000 MG PO TID PEPCID ( FAMOTIDINE ) 20 MG PO BID TACROLIMUS 5 MG PO Q12H
+Food / Drug Interaction Instruction
+Separate antacids by at least two hours and avoid grapefruit juice
+Override Notice :
+Override added on 05/19/05 by GUIRRE , SHELLTILI B. , M.D. on order for DILTIAZEM PO ( ref # 086429935 )
+POTENTIALLY SERIOUS INTERACTION :
+TACROLIMUS and DILTIAZEM HCL
+Reason for override :
+MD aware
+Previous override information :
+Override added on 05/19/05 by SAPSPANT , AJAC R , M.D. on order for DILTIAZEM EXTENDED RELEASE PO ( ref # 131507128 )
+POTENTIALLY SERIOUS INTERACTION :
+TACROLIMUS and DILTIAZEM HCL
+Reason for override :
+request by renal , will follow level
+Previous override information :
+Override added on 05/19/05 by SAPSPANT , AJAC R , M.D. on order for DILTIAZEM SUSTAINED RELEASE PO ( ref # 930638554 )
+POTENTIALLY SERIOUS INTERACTION :
+TACROLIMUS and DILTIAZEM HCL
+Reason for override :
+will monitor levels
+Previous override information :
+Override added on 05/18/05 by TONE , NIDI M. , M.D. , M.P.H.
+POTENTIALLY SERIOUS INTERACTION :
+DILTIAZEM HCL and TACROLIMUS
+Reason for override :
+will monitor BACTRIM SS ( TRIMETHOPRIM /SULFAMETHOXAZOLE SI ... ) 1 TAB PO QD DILTIAZEM EXTENDED RELEASE 360 MG PO QD Starting IN AM ( 05/20 )
+Food / Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise .
+Alert overridden :
+Override added on 05/19/05 by SAPSPANT , AJAC R , M.D.
+POTENTIALLY SERIOUS INTERACTION :
+TACROLIMUS and DILTIAZEM HCL
+Reason for override :
+request by renal , will follow level
+CELLCEPT ( MYCOPHENOLATE MOFETIL ) 1,000 MG PO BID
+Food / Drug Interaction Instruction
+Give on an empty stomach ( give 1hr before or 2hr after food ) Food decreases peak by up to 40
