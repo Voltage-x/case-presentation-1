@@ -31,7 +31,7 @@ def rebuild(tokens):
         newstem += word + ' '
     return newstem[:-1]
 
-with open('output9.csv', 'w+', newline='') as csvfile:
+with open('result.csv', 'w+', newline='') as csvfile:
     writer = csv.writer(csvfile)
     for f in files:
         #newName = os.path.splitext(f)[0]
