@@ -5,7 +5,7 @@ from nltk.corpus import words as NLTKword
 from nltk.corpus import sentiwordnet as swn
 
 mypath = "./Case Presentation 1 Training Data/Case Presentation 1"
-testPath = "./verify"
+testPath = "./testing"
 files = os.listdir(testPath)
 
 smokeKey = ['smok','cigar','tobacco']
