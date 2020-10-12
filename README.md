@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 cd .\if-else\
 ```
-2. Put your .txt files in verify folder
+2. Put your .txt files in testing folder
 3. Run following:
 ```
 python method_IF_ELSE.py
