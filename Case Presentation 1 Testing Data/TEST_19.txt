@@ -1,0 +1,82 @@
+
+303694252 EH
+14027692
+097370
+08/05/2001 12:00:00 AM
+erosive esophagitis
+DIS
+Admission Date :
+08/05/2001
+Report Status :
+Discharge Date :
+08/08/2001
+****** DISCHARGE ORDERS ******
+RHALTHEAGLE , LEELO 506-20-55-6 K40
+Room :
+89N-803
+Service :
+MED
+DISCHARGE PATIENT ON :
+08/08/01 AT 04:00 PM
+CONTINGENT UPON
+SNF / rehab
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+GRENDZISKLEEB , FACISA TIELO , M.D.
+CODE STATUS :
+No CPR / No defib /
+DISPOSITION :
+No- Ter Chipold Medical Center
+DISCHARGE MEDICATIONS :
+ROBITUSSIN ( GUAIFENESIN ) 10 MILLILITERS PO Q4H PRN cough FLAGYL ( METRONIDAZOLE ) 500 MG PO TID X 5 Days Starting Today ( 08/08 ) NITROGLYCERIN 1/150 ( 0.4 MG ) 1 TAB SL q5min x 3 PRN chest pain
+HOLD IF :
+SBP < 100 AMBIEN ( ZOLPIDEM TARTRATE ) 5 MG PO QHS PRN insomnia
+Food / Drug Interaction Instruction
+Give on an empty stomach ( give 1hr before or 2hr after food )
+Number of Doses Required ( approximate ) :
+5 LEVOFLOXACIN 250 MG PO QD X 5 Days Starting Today ( 08/08 )
+Alert overridden :
+Override added on 08/08/01 by :
+POTENTIALLY SERIOUS INTERACTION :
+HALOPERIDOL and LEVOFLOXACIN
+POTENTIALLY SERIOUS INTERACTION :
+HALOPERIDOL and LEVOFLOXACIN
+Reason for override :
+aware
+Previous Override Notice
+Override added on 08/07/01 by ZISKFUSCJALK , ACRI , M.D. on order for HALDOL IM ( ref # 09647807 )
+POTENTIALLY SERIOUS INTERACTION :
+LEVOFLOXACIN and HALOPERIDOL
+Reason for override :
+awre
+Previous override information :
+Override added on 08/07/01 by ZISKFUSCJALK , ACRI , M.D. on order for HALDOL PO ( ref # 60739147 )
+POTENTIALLY SERIOUS INTERACTION :
+LEVOFLOXACIN and HALOPERIDOL
+Reason for override :
+aware
+OMEPRAZOLE 40 MG PO BID X 45 Days ATENOLOL 25 MG PO BID
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Scaher Grend , RAMMCO 8/20 , 3:30pm scheduled , No Known Allergies
+ADMIT DIAGNOSIS :
+hematemesis
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) erosive esophagitis
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay right scrotal hydrocele bph ( benign prostatic hypertrophy ) ? nph ( ? hydrocephalus ) dementia ( dementia )
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+Esophagogastroduodenoscopy
+BRIEF RESUME OF HOSPITAL COURSE :
+86 yo male with one day of hematemesis ( history unclear ) .
+No known TB or CA history .
+No SOB , ? fever at home .
+No known dysphagia .
+Also c / o chest pain , substernal discomfort for past few days .
+Brought in from assisted living facility .
+In ED HR 70 , BP 130/80 , O2sat 96

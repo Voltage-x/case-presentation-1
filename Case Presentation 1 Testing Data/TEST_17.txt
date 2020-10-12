@@ -1,0 +1,33 @@
+
+040059132
+FIH
+4026509
+25202/z56k
+895332
+6/23/1993 12:00:00 AM
+CORONARY ARTERY DISEASE .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+6/23/93
+DISCHARGE DATE :
+7/2/93
+PRINCIPAL DIAGNOSIS :
+coronary artery disease .
+ASSOCIATED DIAGNOSIS :
+congestive heart failure , atrial fibrillation , H / O protein reaction , elevated cholesterol , obesity , sleep apnea , chronic lung disease and pleural effusions .
+PRINCIPAL PROCEDURE :
+6/24/93 , coronary artery bypass surgery X 2 .
+OTHER PROCEDURES :
+6/24/93 , left internal mammary artery to anterior descending X 1 .
+MEDICATIONS ON DISCHARGE :
+Digoxin .25 mg. po q d , Captopril 12.5 mg. po bid , Coumadin 2.5 mg. po q PM , Lasix 20 mg. po q d , potassium chloride 20 mEq , PO q d , iron sulfate 300 mg. po q d , X 1 month , aspirin 80 mg. po q d , Verapamil 80 mg. po tid .
+CONDITION ON DISCHARGE :
+stable .
+HISTORY OF PRESENT ILLNESS :
+Pauci May is a sixty three year old patient referred by Dr. Laymie Aslinke for significant coronary artery disease .
+He developed acute pulmonary edema on May 27 , 1993 , and was admitted to Sonpathcermu Jords Hospital , and found to be in rapid atrial fibrillation .
+He denied any angina .
+He had a gaited cardiac blood pool scan that showed an ejection fraction of 31
