@@ -32,3 +32,53 @@ cd .\if-else\
 python method_IF_ELSE.py
 ```
 4. The result will be saved in result.csv
+
+### [Data Analysis](./Data%20Analysis%20%26%20TF-IDF%20%2B%20SVM/Data%20Analysis.ipynb)
+Frequently occured words calculation
+<p float="center">
+  <img src="/Data%20Analysis%20%26%20TF-IDF%20%2B%20SVM/img/words_calculation.png" width="80%" />   
+</p>
+
+
+### [WordCloud](./Data%20Analysis%20%26%20TF-IDF%20%2B%20SVM/WordCloud.ipynb)
++ Smoker
+  + Tobacco, Cough, Alcohol, Hypertension, HTN, Smoke
++ Non-smoker
+  + Negative, None, Normal, Deny, End, Tolerate, Stable
++ Past-smoker
+  + Leave, Pain, Female
++ Unknown
+  + Preliminary, Restrictions, None, Without
+ <p float="center">
+ <img src="Data%20Analysis%20%26%20TF-IDF%20%2B%20SVM/img/wordcloud.png" width="50%" />   
+</p>
+
++ Diagnosis length analysis
+  + The unknown distribution is the least
+  + Non-smoker and past-smoker are quite similar
+ <p float="center">
+ <img src="Data%20Analysis%20%26%20TF-IDF%20%2B%20SVM/img/length.png" width="50%" />   
+</p>  
+
+ ### [TF-IDF + Classifier](./Data%20Analysis%20%26%20TF-IDF%20%2B%20SVM/TF-IDF%20%2B%20Classifier.ipynb)
+ 1. Preprocessing
+    - Remove non-letter words, Lowercase, Remove stop words, Lemmatisation
+    
+ 2. Train / validation set split (32:8)
+ 
+ 3. TF-IDF (50 features)
+ 
+ 4. Classifier grid search
+ 
+ 
+|        Classifier       | Accuracy |
+| ----------------------- | -------- |
+| Multinomial Naive Bayes |   61%    |
+|           SVM           |   57%    |
+|      Random Forest      |   56%    |
+|   Logistic Regression   |   53%    |
+|Gradient Boosting Classifier|  50%  |
+|      Decision Tree      |  50%     |
+ <p float="center">
+ <img src="Data%20Analysis%20%26%20TF-IDF%20%2B%20SVM/img/classifier.png" width="50%" />   
+</p>  
