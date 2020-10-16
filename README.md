@@ -10,8 +10,11 @@ All of the data comes from  [i2b2](https://www.i2b2.org) 2006 Deidentification a
 Human experts annotated each record with the smoking status of patients based on the explicitly stated smoking-related facts in the records and their medical intuitions on all information in the records.
 
 1. A **Past Smoker** is a patient whose discharge summary asserts explicitly that the patient was a smoker one year or more ago but who has not smoked for at least one year.
+
 2. A **Current Smoker** is a patient whose discharge summary asserts explicitly that the patient was a smoker within the past year.
+
 3. A **Non-Smoker’s** discharge summary indicates that they **never** smoked.
+
 4. An **Unknown** is a patient whose discharge summary does not mention anything about smoking.
 
 ## Getting Started
