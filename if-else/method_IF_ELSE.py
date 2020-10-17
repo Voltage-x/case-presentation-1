@@ -1,4 +1,4 @@
-import csv,os,re,nltk,re
+import csv,os,re,nltk
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.tag import pos_tag
 from nltk.corpus import words as NLTKword
