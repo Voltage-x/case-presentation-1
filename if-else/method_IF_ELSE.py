@@ -1,8 +1,6 @@
-import csv,os,re,nltk,re
+import csv,os,re,nltk
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.tag import pos_tag
-from nltk.corpus import words as NLTKword
-from nltk.corpus import sentiwordnet as swn
 
 mypath = "./Case Presentation 1 Training Data/Case Presentation 1"
 testPath = "./testing"
