@@ -2,7 +2,6 @@ import csv,os,re,nltk
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.tag import pos_tag
 
-mypath = "./Case Presentation 1 Training Data/Case Presentation 1"
 testPath = "./testing"
 files = os.listdir(testPath)
 
@@ -31,6 +30,7 @@ def rebuild(tokens):
 
 with open('result.csv', 'w+', newline='') as csvfile:
     writer = csv.writer(csvfile)
+    writer.writerow(['File Name','Key Sentence','Prediction'])
     for f in files:
         #newName = os.path.splitext(f)[0]
         txtFile = open(testPath+'/'+f, 'r')
@@ -68,7 +68,7 @@ with open('result.csv', 'w+', newline='') as csvfile:
                         break
         if flag == 1:
             print('UNKNOWN')
-            writer.writerow([f,rowLem,"UNKNOWN"])
+            writer.writerow([f,'N/A',"UNKNOWN"])
         print('\n')
 
 

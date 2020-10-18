@@ -1,0 +1,41 @@
+File Name,Key Sentence,Prediction
+TEST_01.txt,"SOCIAL HISTORY : Notable for heavy alcohol use and history of heavy tobacco use , although he quit two years ago .",PAST-SMOKER
+TEST_02.txt,She is a remote cigarette smoker .,CURRENT-SMOKER
+TEST_03.txt,"BRIEF RESUME OF HOSPITAL COURSE : 41 yo man with CRFs of DM Type II , high cholesterol , smoking history , family hx , HTN p / w episodes of atypical CP x 1 week , with rest and exertion .",CURRENT-SMOKER
+TEST_04.txt,SOCIAL HISTORY : Stopped smoking 15 years ago .,PAST-SMOKER
+TEST_05.txt,"After discussing with him his risk factors for another TIA / stroke , which included his hx of 8 cig / day x29 yrs , we emphasized that it would be important to stop smoking .",PAST-SMOKER
+TEST_06.txt,HABITS : She denies smoking or alcohol .,NON-SMOKER
+TEST_07.txt,SOCIAL HISTORY : She is a former smoker of one pack per day of cigarettes for 63 years .,PAST-SMOKER
+TEST_08.txt,"She is a former smoker , and drinks alcohol occasionally .",PAST-SMOKER
+TEST_09.txt,N/A,UNKNOWN
+TEST_10.txt,SOCIAL HISTORY : Patient does not smoke or drink .,NON-SMOKER
+TEST_11.txt,SOCIAL HISTORY : The patient 's social history is notable for a heavy smoking history .,CURRENT-SMOKER
+TEST_12.txt,"BRIEF RESUME OF HOSPITAL COURSE : 66 yo M h / o stable carotid occlusive disease , HTN , dyslipidemia , and past smoking presents w/ progressive LLE claudication x1.5 y .",PAST-SMOKER
+TEST_13.txt,The patient admits to smoking one pack of cigarettes per day .,CURRENT-SMOKER
+TEST_14.txt,"HISTORY OF PRESENT ILLNESS : Briefly this a 65-year-old gentleman with a history significant for lung cancer status post complete right pneumonectomy in 1997 , COPD , past tobacco use , atrial fibrillation , prostate adenocarcinoma , and multiple pulmonary infections who presented to the New Wishwarm Medical Center 's Emergency Room with shortness of breath on three occasions in May .",PAST-SMOKER
+TEST_15.txt,"HABITS : 50 pack year smoking history , still smoking currently .",CURRENT-SMOKER
+TEST_16.txt,She does not drink alcohol or smoke tobacco or take drugs .,NON-SMOKER
+TEST_17.txt,N/A,UNKNOWN
+TEST_18.txt,"HABITS : She does not smoke , does not use birth control pills , does not use drugs .",NON-SMOKER
+TEST_19.txt,N/A,UNKNOWN
+TEST_20.txt,SOCIAL HISTORY : She quit smoking nine years ago .,PAST-SMOKER
+TEST_21.txt,SOCIAL HISTORY : The patient is an ex-smoker .,PAST-SMOKER
+TEST_22.txt,N/A,UNKNOWN
+TEST_23.txt,"SOCIAL HISTORY : Denies smoking , alcohol use .",NON-SMOKER
+TEST_24.txt,N/A,UNKNOWN
+TEST_25.txt,N/A,UNKNOWN
+TEST_26.txt,N/A,UNKNOWN
+TEST_27.txt,"ASSOCIATED DIAGNOSES : Abnormal Pap Test , history of ; Anemia ; Arrhythmia ; Gastrointestinal Problem , history of ; Herpes Simplex , Non Vulvovaginitis , history of ; Infertility ; Maternal Obesity ; Stopped Smoking This Pregnancy , history of ; Thyroid Nodule ; Urinary Tract Infection",PAST-SMOKER
+TEST_28.txt,Smokes one pack per day x 40 years .,CURRENT-SMOKER
+TEST_29.txt,N/A,UNKNOWN
+TEST_30.txt,"Smoking : 1 ppd x 35 years , quit .",PAST-SMOKER
+TEST_31.txt,N/A,UNKNOWN
+TEST_32.txt,N/A,UNKNOWN
+TEST_33.txt,N/A,UNKNOWN
+TEST_34.txt,N/A,UNKNOWN
+TEST_35.txt,"SOCIAL HISTORY : Negative for tobacco , drugs , or domestic violence .",NON-SMOKER
+TEST_36.txt,N/A,UNKNOWN
+TEST_37.txt,N/A,UNKNOWN
+TEST_38.txt,"SOCIAL HISTORY : History of tobacco use , 40-pack year cigarette smoking history , used within the last year .",CURRENT-SMOKER
+TEST_39.txt,SOCIAL HISTORY : The patient has an 80-pack-year history of tobacco and is currently smoking 1-2 packs per day .,CURRENT-SMOKER
+TEST_40.txt,N/A,UNKNOWN
